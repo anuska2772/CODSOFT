@@ -1,2 +1,2 @@
 # CODSOFT
-Intership projects on java
+Internship projects on java
